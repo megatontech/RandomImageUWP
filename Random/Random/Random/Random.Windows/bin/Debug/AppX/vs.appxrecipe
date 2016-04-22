@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-UTKDAI9</Machine>
+    <WindowsUser>techm</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>43668.236332045D059</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>FAB32A10310AD3922E5DA886969238D47C78FE07FFBA578E0A5240203A95AAF8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>43668.236332045D059_1.1.0.3_neutral__qcta1sg1zgrry</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>43668.236332045D059_qcta1sg1zgrry!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>43668.236332045D059</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=95A43D9E-8BE4-4E26-BE20-59AA2C890ED2</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.3</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-22T16:31:28.025</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-11-22T11:27:55.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2015-11-22T11:27:55.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\images\default.jpg">
+      <PackagePath>images\default.jpg</PackagePath>
+      <Modified>2015-11-15T14:08:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-22T16:05:55.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-22T16:05:55.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-22T16:10:33.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-22T16:05:55.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-22T16:05:55.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-22T16:05:55.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2015-07-06T14:02:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-11-22T16:00:24.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\techm\documents\visual studio 2015\Projects\Random\Random\Random.Shared\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2015-11-22T15:46:27.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\techm\documents\visual studio 2015\Projects\Random\Random\Random.Shared\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2015-11-22T11:27:53.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\techm\documents\visual studio 2015\Projects\Random\Random\Random.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-11-22T11:27:53.459</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\techm\documents\visual studio 2015\Projects\Random\Random\Random.Shared\js\roulette.js">
+      <PackagePath>js\roulette.js</PackagePath>
+      <Modified>2015-11-22T16:19:41.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\techm\documents\visual studio 2015\Projects\Random\Random\Random.Shared\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2015-11-22T11:27:53.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\techm\documents\visual studio 2015\Projects\Random\Random\Random.Shared\pages\home\roulette.js">
+      <PackagePath>pages\home\roulette.js</PackagePath>
+      <Modified>2015-11-22T16:25:29.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-22T16:31:27.734</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

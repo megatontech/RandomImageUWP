@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="AppStudio.Uwp" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="AppStudio.Uwp">
+				<NamedResource name="AppStudio.Uwp.xr.xml" uri="ms-resource://AppStudio.Uwp/Files/AppStudio.Uwp/AppStudio.Uwp.xr.xml">
+					<Candidate type="Path">
+						<Value>AppStudio.Uwp\AppStudio.Uwp.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Controls">
+					<ResourceMapSubtree name="ErrorNotificationControl">
+						<NamedResource name="ErrorNotificationControl.xbf" uri="ms-resource://AppStudio.Uwp/Files/AppStudio.Uwp/Controls/ErrorNotificationControl/ErrorNotificationControl.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ResponsiveGridView">
+						<NamedResource name="ResponsiveGridView.xbf" uri="ms-resource://AppStudio.Uwp/Files/AppStudio.Uwp/Controls/ResponsiveGridView/ResponsiveGridView.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="SectionList">
+						<NamedResource name="SectionList.xbf" uri="ms-resource://AppStudio.Uwp/Files/AppStudio.Uwp/Controls/SectionList/SectionList.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Properties">
+					<NamedResource name="AppStudio.Uwp.rd.xml" uri="ms-resource://AppStudio.Uwp/Files/AppStudio.Uwp/Properties/AppStudio.Uwp.rd.xml">
+						<Candidate type="Path">
+							<Value>AppStudio.Uwp\Properties\AppStudio.Uwp.rd.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://AppStudio.Uwp/Files/AppStudio.Uwp/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

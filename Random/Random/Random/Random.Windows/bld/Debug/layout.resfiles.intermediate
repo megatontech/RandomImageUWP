@@ -1,0 +1,17 @@
+js\default.js
+js\navigator.js
+js\roulette.js
+pages\home\home.html
+pages\home\home.js
+pages\home\roulette.js
+css\default.css
+default.html
+images\default.jpg
+images\logo.scale-100.png
+images\smalllogo.png
+images\splashscreen.scale-100.png
+images\Square30x30Logo.scale-100.png
+images\Square310x310Logo.scale-100.png
+images\storelogo.scale-100.png
+images\Wide310x150Logo.scale-100.png
+pages\home\home.css

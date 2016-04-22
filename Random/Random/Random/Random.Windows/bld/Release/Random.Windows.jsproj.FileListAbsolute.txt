@@ -1,0 +1,15 @@
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bin\Release\resources.pri
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bin\Release\AppxManifest.xml
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bin\Release\Random.Windows.build.appxrecipe
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bld\Release\priconfig.xml
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bld\Release\priconfig.xml.intermediate
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bld\Release\layout.resfiles
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bld\Release\layout.resfiles.intermediate
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bld\Release\resources.resfiles
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bld\Release\resources.resfiles.intermediate
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bld\Release\pri.resfiles
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bld\Release\pri.resfiles.intermediate
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bld\Release\qualifiers.txt
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bld\Release\qualifiers.txt.intermediate
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bld\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\techm\Documents\Visual Studio 2015\Projects\Random\Random\Random.Windows\bld\Release\ProjectArchitectures.txt
